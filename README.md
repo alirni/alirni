@@ -1,5 +1,4 @@
-### Hi there 👋
-
+#### Hi there 👋
 I am a frontend web developer who started programming professionally in 2016. I am currently working with **ReactJS** besides **Typescript**. I am fluent in **HTML** and **CSS** and also able to create responsive web applications. I always try to make components with **Google Material Design** standards. Moreover, I am proficient in **Material UI**. I create dynamic applications with the help of **REST API**. I know the importance of testing, so I currently use **Cypress**, **Jest** and **Enzyme**. I have more than 3 years experiences in agile teams and working with **scrum** methods. I always use **Git** for source code version controlling with **Git Flow** model. I would like contribute in open source projects.<br>
 I made a **PWA** (progressive web app) using **Polymer**. I really like working with **startup** teams. Also, I like to gain some experiences and learn to work with new technologies and new frameworks.
 
